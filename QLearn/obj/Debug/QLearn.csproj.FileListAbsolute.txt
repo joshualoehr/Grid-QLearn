@@ -1,0 +1,6 @@
+N:\cs402\QLearn\QLearn\bin\Debug\QLearn.exe.config
+N:\cs402\QLearn\QLearn\bin\Debug\QLearn.exe
+N:\cs402\QLearn\QLearn\bin\Debug\QLearn.pdb
+N:\cs402\QLearn\QLearn\obj\Debug\QLearn.csprojResolveAssemblyReference.cache
+N:\cs402\QLearn\QLearn\obj\Debug\QLearn.exe
+N:\cs402\QLearn\QLearn\obj\Debug\QLearn.pdb
